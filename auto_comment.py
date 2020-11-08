@@ -9,7 +9,8 @@ mycomment = "Subscribe to my channel :)"
 search_query = "VIDEO" #Enter any keyword without spaces to get type of videos you want to comment on
 count = 0
 
-browser = webdriver.Firefox()
+browser = webdriver.Firefox() #For fireFox
+#browser = webdriver.Chrome() #For Chrome (Uncomment for chrome)
 browser.get("https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent")
 
 browser.implicitly_wait(1)
