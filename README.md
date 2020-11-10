@@ -1,5 +1,5 @@
 # Youtube-Auto-Comment
-Automatically login to YouTube and comment on videos.
+A simple script that Automatically login to YouTube and comment on videos.
 
 <h3>Requirements</h3>
 <p>
